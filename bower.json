@@ -1,0 +1,17 @@
+{
+  "name": "about me 2",
+  "description": "Physics-like animations for pretty particles",
+  "main": "js/index.js",
+  "authors": [
+    "Simon Wheeldon"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sawheeldon/about-me-2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
